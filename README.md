@@ -1,4 +1,4 @@
-Created by Shiran Zhu & Ning An (anning@scu.edu.cn)
+Created by Shiran Zhu under the supervision of Dr. Ning An (anning@scu.edu.cn)
 
 Feburary, 2024
 
