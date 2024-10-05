@@ -6,6 +6,6 @@ This code was originally developed to perform the form finding of cable-membrane
 
 If you use or edit our work, please cite the appropriate reference:
 
-Shiran Zhu, Ruiwen Guo, Xin Jin, Xiaofei Ma, Jinxiong Zhou, and Ning An*. Form finding of cable-membrane structures with flexible frames: finite element implementation and application to surface accuracy analysis of umbrella-like rib-mesh reflectors. Submitted.
+Zhu, S., Guo, R., Jin, X., Ma, X., Zhou, J., & An, N.* (2024). Form finding of cable-membrane structures with flexible frames: Finite element implementation and application to umbrella-like rib-mesh reflectors. Advances in Engineering Software, In Press.
 
 # FEM-based-form-finding
